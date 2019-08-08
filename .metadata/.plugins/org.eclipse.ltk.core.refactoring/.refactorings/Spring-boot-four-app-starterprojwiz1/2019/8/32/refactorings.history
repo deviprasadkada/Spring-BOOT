@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HomeController.java&apos; to &apos;Spring-boot-five-Thymeleaf/src/main/java/com.prasadtpoint&apos;&#x0D;&#x0A;- Original project: &apos;Spring-boot-four-app-starterprojwiz1&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-boot-five-Thymeleaf/src/main/java/com.prasadtpoint&apos;&#x0D;&#x0A;- Original element: &apos;com.prasadtpoint.HomeController.java&apos;" description="Copy compilation unit" destination="=Spring-boot-five-Thymeleaf/src\/main\/java&lt;com.prasadtpoint" element1="/src\/main\/java&lt;com.prasadtpoint{HomeController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1565224093192" units="1" version="1.0"/>
+</session>

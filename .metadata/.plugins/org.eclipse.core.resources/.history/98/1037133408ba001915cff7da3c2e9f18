@@ -1,0 +1,15 @@
+server.port = 3333
+spring.datasource.url=jdbc:mysql://localhost:3306/jul2019  
+spring.datasource.username=root
+spring.datasource.password=prasad
+spring.jpa.hibernate.ddl-auto=create-drop  
+
+
+
+
+#
+# JDBC properties
+#
+spring.datasource.url=jdbc:mysql://localhost:3306/employee_directory
+spring.datasource.username=springstudent
+spring.datasource.password=springstudent

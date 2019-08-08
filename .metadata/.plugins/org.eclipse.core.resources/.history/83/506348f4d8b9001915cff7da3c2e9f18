@@ -1,0 +1,17 @@
+package com.prasadtpoint;
+
+public class UserController {
+
+    private UserService userService;   
+
+    public List<UserRecord> getAllUser(){  
+        return userService.getAllUsers();  
+    }     
+
+    public void addUser(@RequestBody UserRecord userRecord){  
+        userService.addUser(userRecord);  
+    }  
+	
+	
+	
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="Spring-boot-five-Thymeleaf"/>
+<aop-project name="Spring-boot-four-app-starterprojwiz1"/>
+<aop-project name="Spring-boot-two-starterprojwizard"/>
+<aop-project name="spring-boot-three-initializr"/>
+</aop-reference-model>
